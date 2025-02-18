@@ -1,1 +1,1 @@
-# -Owner-avatar-OtusBasicHomeWork09
+# OtusBasicHomeWork09 “Многопоточный подсчет самых частых слов”
